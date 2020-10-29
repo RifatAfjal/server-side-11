@@ -2,25 +2,25 @@
 
 ## Overview:
 * Multi level user dashboard
-* Add Service
-* Make Admin
-* Create Order
-* Show all orders as admin
-* Show only your orders as general user
-* Review your order 
+* Admin can add Service
+* Admin can Make Admin
+* Admin can see all orders.
+* Admin can Change order status.
+* User can press order.
+* User can see orders list.
+* User can give feedback 
 
 ## Usage Technology:
 * React JS
 * Node JS
 * Express JS
 * Mongo DB
-* Material UI
-* Firebase Auth
+* Bootstrap
+* Firebase
 
 ## Usage Tools:
 * Heroku
 * Firebase Hosting
-* Firebase Tool
 * VS Code
 * Git
 * Github
